@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/deelaka-wejith-kariyawasam-7a9bb0213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deelaka-wejith-kariyawasam-7a9bb0213/" height="30" width="40" /></a>
 <a href="https://fb.com/deelaka.kariyawasam?mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deelaka.kariyawasam?mibextid=lqqj4d" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@deelakawejithkariyawasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@deelakawejithkariyawasam" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/deelakawejithkariyawasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deelakawejithkariyawasam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
