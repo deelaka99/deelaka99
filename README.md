@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deelaka99&label=Profile%20views&color=0e75b6&style=flat" alt="deelaka99" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, Firebase, TailwindCSS**
+- 🌱 I’m currently learning **Flutter, ReactJS, GatsbyJS, Firebase, TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/deelaka99?tab=repositories](https://github.com/deelaka99?tab=repositories)
 
