@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Deelaka Kariyawasam</h1>
-<h3 align="center">R&D Lead @ Knovik, focused on pioneering AI and ML-driven solutions for SaaS platforms.</h3>
+<h3 align="center">Associate Software Engineer - R&D Lead @ Knovik, focused on pioneering AI and ML-driven solutions for SaaS platforms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deelaka99&label=Profile%20views&color=0e75b6&style=flat" alt="deelaka99" /> </p>
 
