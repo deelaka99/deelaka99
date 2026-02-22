@@ -1,7 +1,12 @@
 <h1 align="center">Hi there👋, I'm Deelaka Kariyawasam</h1>
 <h3 align="center">Associate Software Engineer - R&D Lead @ Knovik, focused on pioneering AI and ML-driven solutions for SaaS platforms.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deelaka99&label=Profile%20views&color=0e75b6&style=flat" alt="deelaka99" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=deelaka99&label=Profile%20views&color=0e75b6&style=flat" alt="deelaka99" />
+  <a href="https://play.google.com/store/apps/dev?id=8243072620844801919" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-Developer_Profile-34A853?style=flat&logo=google-play&logoColor=white" alt="Google Play Profile" />
+  </a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deelaka99" alt="deelaka99" /></a> </p>
 
