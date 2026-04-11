@@ -8,8 +8,6 @@
   </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deelaka99" alt="deelaka99" /></a> </p>
-
 - 🔭 I'm currently working on **personal projects in AI/ML, LLM integration, and scalable full-stack applications.**
 
 - 🌱 I'm currently learning **Advanced LLM architectures and deepening my expertise through my Master of Computer Science at UCSC.**
