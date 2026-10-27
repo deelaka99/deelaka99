@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Deelaka Kariyawasam</h1>
-<h3 align="center">Software Engineer | Full Stack · AI/ML · LLM Integration | Ex-Associate Software Engineer & R&D Lead @ Knivok | Reading Master of Computer Science @ UCSC</h3>
+<h3 align="center">Software Engineer | Full Stack · AI/ML · LLM Integration | Automation Engineer @ KonnectBPO | Reading Master of Computer Science @ UCSC</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=deelaka99&label=Profile%20views&color=0e75b6&style=flat" alt="deelaka99" />
